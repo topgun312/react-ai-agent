@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+.env
+.test.env
+
+*idea
+*.local
+
+logs.json
+src/logs.json
+logs/
+*data/
+
+# Артефакты команды /export
+chat_*.md
+chat_*.json
